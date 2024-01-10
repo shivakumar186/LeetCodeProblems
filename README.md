@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivakumar-186
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning ReactJS and Spring Boot.
 - 💞️ I’m looking to collaborate on React JS 
   
 <!---
